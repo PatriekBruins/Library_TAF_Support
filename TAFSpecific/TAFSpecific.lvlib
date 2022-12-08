@@ -11,6 +11,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="AddToExternalInterface.vim" Type="VI" URL="../AddToExternalInterface.vim"/>
 	<Item Name="ArrayToExternalInterface.vim" Type="VI" URL="../ArrayToExternalInterface.vim"/>
 	<Item Name="ExternalInterfaceToArray.vim" Type="VI" URL="../ExternalInterfaceToArray.vim"/>
 </Library>
